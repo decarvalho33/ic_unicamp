@@ -22,6 +22,10 @@ Na página 112 do livro é dito que as leveduras preferem 30 graus para a fermen
 
 4- POSSO FAZER O FOCO SER INDÚSTRIAS DE BIOETANOL BRASILEIRAS E ESTUDAR SÓ AS LINHAGENS QUE TEM RELAÇÃO EM COMUM COM A INDÚSTRIA, COMO DESCRITO NO ARTIGO DELE!
 
+!5- reference genome of S. cerevisiae S288c e o uso desse genoma pra identificar SNPs.
+
+6 - 1011 yeast genomes project - aqui eu já sei que pegaram 1,544,489 SNPs
+
 # PRA IC:
 
 POSSO FAZER O FOCO SER INDÚSTRIAS DE BIOETANOL BRASILEIRAS E ESTUDAR SÓ AS LINHAGENS QUE TEM RELAÇÃO EM COMUM COM A INDÚSTRIA, COMO DESCRITO NO ARTIGO DELE!
@@ -31,7 +35,7 @@ Página 15: levedura produz milhões de fármacos que salvam vidas, além de ali
 
 ------História da levedura:
 
-Já fermentavam desde 10 mil anos atrás, quando deixamos de caçar pra adotar a agricultura, mas sem saber da existência das leveduras comp seres vivos.
+Já fermentavam desde 10 mil anos atrás, quando deixamos de caçar pra adotar a agricultura, mas sem saber da existência das leveduras como seres vivos.
 O processo pra identificar a vida das leveduras foi lento e ocorreu só no século XIX, pelo botânico francês Jean Baptiste Henri Josph Desmazières, mas a levedura do bioetanol brasileiro so foi nomeada em 1838 por Franz Meyen. Mas ainda não era consenso que eram elas que produziam o álcool, até 1860 com Luis Pasteur.
 Vale destacar que as leveduras foram mais influentes no ocidente que no oriente
 
@@ -72,6 +76,29 @@ Esses genes sem função são também duplicados junto com os genes funcionais, 
 ENTRETANTO, UM DOS MOTIVOS PROS ORGANISMOS NÃO DESCARTAREM ESSES ÍNTRONS, SEGUNDO O LIVRO, É QUE AINDA DÁ PRA ACIONAR ELES PRA FAZER NOVOS GENES, LOGO PODE SER MATÉRIA PRIMA PRA GENETICISTAS TRABALHAREM, ENTÃO VALE A PENA TRACKEAR TUDO! - aqui acho que vale a pena ou pegar um caso que isso aconteceu ou algum artigo foda q fala pra poder convercer pq parece algo muito difícil, use gpt -.
 
 POR FIM, A QUESTÃO DE SE O MELHORAMENTO GENÉTICO FALHAR, PODE SER UM APOCALIPSE PQ VAI QUE AS LEVEDURAS PASSAM A CRIAR SLA ACÍDO QUE MATA TODO MUNDO; ISSO IMPLICA QUE TEMOS QUE ESTUDAR MUITO OS GENES PRA GARANTIR QUE ISSO NÃO OCORRA ANTES DE TOMAR AÇÕES PRECIPITADAS! página 99 tem uma série de exemplos e alusões boas pra explicar os lados ruims de GM de leveduras frankstein.
+
+# ANOTAÇÕES DA VIARIABILIDADE GENÉTICA ARTIGO ANDREAS - 'CASO INDUSTRIAL'
+
+Site A e site B são as duas biorefinarias. 
+
+Quanto as linhagens de sc usadas em cada site:
+-Site A used a mix of four strains to start both the 2018 and 2019 fermentation periods—namely strains PE-2, SA-1, FT-858, and IRA-D.
+-Site B informed us that they have used PE-2 as their sole starter strain in both fermentation seasons, although we would later find evidence suggestive of a second starter strain being used, possibly unknowingly.
+MAS DEPOIS VIRAM QUE TINHA UM TOTAL DE 11 LINHAGENS DIFERENTES DESDE O INÍCIO!
+
+métodos de sequenciamento de DNA utilizados, detalhadamente:
+1- metagenomica shotgun:
+Esse método consiste em pegar uma amostra bruta do DNA de todos os diferentes organismos de um ambiente, e depois aplicar métodos computacionais pra tentar desfazer essa sobreposição de genes e predizer de forma completa quais os genes presentes na amostra.
+
+2- sequencia clonal:
+Nesse método, usamos RNA polimerase pra produzir VÁRIAS dnas duplicados, depois conseguimos o aplicar metodo do gel pra obter o dna de um especí
+
+
+RESUMO DO Q FIZERAM: primeiramente, sequenciamento do genoma de todas as coletas que fizeram, de forma bruta mesmo, através de 2 métodos: metagenomic e clones . Depois, foram comparando com o genoma de referencia das sc S288c pra identificar SNPs. Com esses SNPs, não conseguiram idenficar direito as linhagens usando o médoto de metagenomic, mas obtiveram melhores resultados com o segundo método, clones, e chegaram em 197 linhagens diferentes ao longo de toda a duração da pesquisa.
+
+tinha só diploide e triploide, o que complica o sequenciamento. 
+
+??? clonal and metagenomic datasets ??? isso deve ser métodos.. - 
 
 # ANOTAÇÕES GERAIS DO LIVRO
 
