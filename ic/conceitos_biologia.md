@@ -14,4 +14,9 @@ DEFINIÇÕES:
 
 -gene: é uma parcela do DNA que contém informação necessária pra ser transcrita em proteína
 
+-SNP: single nucleotide polyphormation - são alterações em apenas um nucleotídeo que deve estar presente em pelo menos 1% da população.
 
+
+inglês:
+
+- strain vs lineage: variantes de uma espécie podem ter só uma pequena alteração no DNA de forma que nem mude nada fenópticamente em relação DNA original. Lineages são o conjunto de variantes que podem ser classificadas por alterações em comum, mas que não apresentam necessariamente mudanças fenópticas. Agora STRAIN são LINEAGES que NECESSARIAMENTE CULMINARAM EM MUDANÇAS FENÓPTICAS.
