@@ -1,3 +1,15 @@
+conceitos importantes que não sei:
+- pipeline
+- novel
+
+
+
+perguntas 10/05:
+
+
+
+
+
 então a ideia central do projeto é fazer o pangenoma¹ das leveduras pra conseguir melhor produtividade das leveduras usando a técnica da UNESP². 
 	Por que? 
 	1- Leveduras e o potencial pra humanidade:
