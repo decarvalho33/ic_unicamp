@@ -1,6 +1,10 @@
 GERAL:
 -strain e lineage são a mesma coisa.
 
+DÚVIDAS:
+- pipeline?
+- novel?
+
 DEFINIÇÕES:
 -alelo: são as vaiações que encontramos de um gene em um locus genico (local exato). Ou seja, é como se o locus gênico fosse a casa, com endereço fixo, que é alugada para moradores diferentes pra cada época do ano. Então, cada morador (gene) em cada época do ano (organismo diferente da mesma espécie) pra esse endereço fixo é um alelo.
 
