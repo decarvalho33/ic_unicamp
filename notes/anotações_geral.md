@@ -1,7 +1,7 @@
 conceitos importantes que não sei:
 - pipeline
 - novel
-
+- o que são os proteomes lá, é tipo o pangenoma na prática??
 
 
 então a ideia central do projeto é fazer o pangenoma¹ das leveduras pra conseguir melhor produtividade das leveduras usando a técnica da UNESP². 
@@ -9,6 +9,21 @@ então a ideia central do projeto é fazer o pangenoma¹ das leveduras pra conse
 	1- Leveduras e o potencial pra humanidade:
 	pois leveduras tem uma história fudida³, e podem mudar o mundo⁴. Se descobrir como melhorar muito⁵ leveduras a ponto de suprir completamente a demanda energética, será a descoberta do século.
 	Um meio de fazer isso 
+
+
+o que fazer;
+
+1. Estudar os métodos comp pra fazer pangenoma dos brasileiros
+2. Analisar os pangenomas de S.cerevisiae e outros pra ver quais práticas são comuns antes de aplicar algum método do item anterior
+3. escrever
+
+
+
+#CONCEITOS MEGA IMPORTANTES
+
+- 
+
+
 
 
 #fortes ideias IDEIAS
@@ -42,4 +57,3 @@ telomeres, solo-long terminal repeats (solo LTRs), complete Ty
 transposable elements, and more importantly, of multi-paralog
 gene families (McIlwain et al., 2016; Istace et al., 2017; Salazar
 et al., 2017; Yue et al., 2017). \
-
